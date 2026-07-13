@@ -26,4 +26,5 @@ run end to end so I actually understand them.
 
 ## Reach me
 
-- [add LinkedIn / email / site]
+- (https://www.linkedin.com/in/pauleiteliv/)
+- paul@paulsgarageva.com
