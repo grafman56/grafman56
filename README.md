@@ -1,0 +1,29 @@
+# Hi, I'm Paul 👋
+
+Broadband / network engineer who automates the tedious parts of the job, and runs a
+homelab to break things before production does.
+
+## What I focus on
+
+- **Network automation** — Ansible against Cisco IOS / IOS-XE and DOCSIS CMTS platforms
+- **Infrastructure & ops** — Proxmox, Docker, self-hosted GitLab, Semaphore (Ansible CI), NetBox (IPAM/DCIM)
+- **Secrets & security** — HashiCorp Vault (AppRole, scoped policies), least-privilege by default
+- **Monitoring** — Prometheus, SNMP, custom metric exporters
+- **Python tooling** — data pipelines, scrapers, and a few local-LLM experiments
+
+## Featured projects
+
+- **[scmsansible](https://github.com/grafman56/scmsansible)** — parallel CMTS cable-modem-count poller. An external CSV becomes a dynamic inventory, every CMTS polls concurrently, and one timestamped CSV report comes out. Unreachable devices are flagged instead of failing the run.
+- **[ansibletestlocal](https://github.com/grafman56/ansibletestlocal)** — a clean, documented starter for checking Cisco IOS interfaces over SSH with Ansible (raw CLI + structured facts).
+- **[docsismonitor](https://github.com/grafman56/docsismonitor)** — async SNMP to Prometheus exporter for CMTS downstream/upstream utilization and CPU.
+- **[Ansible_Interface_Compare](https://github.com/grafman56/Ansible_Interface_Compare)** — snapshot interface packet counters and compare them over time (fact-cache and file-persistence approaches).
+
+## Homelab
+
+A self-hosted lab I use as a proving ground: virtualization, containerized services,
+secrets management, config automation, and monitoring. The same tools I use at work,
+run end to end so I actually understand them.
+
+## Reach me
+
+- [add LinkedIn / email / site]
