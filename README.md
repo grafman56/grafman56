@@ -17,6 +17,7 @@ homelab to break things before production does.
 - **[ansibletestlocal](https://github.com/grafman56/ansibletestlocal)** — a clean, documented starter for checking Cisco IOS interfaces over SSH with Ansible (raw CLI + structured facts).
 - **[docsismonitor](https://github.com/grafman56/docsismonitor)** — async SNMP to Prometheus exporter for CMTS downstream/upstream utilization and CPU.
 - **[Ansible_Interface_Compare](https://github.com/grafman56/Ansible_Interface_Compare)** — snapshot interface packet counters and compare them over time (fact-cache and file-persistence approaches).
+- **[WeissWave](https://github.com/grafman56/WeissWave)** — Python S&P 500 screener and backtester built on Weis Wave volume analysis, with multi-timeframe signals and a portfolio simulator.
 
 ## Homelab
 
