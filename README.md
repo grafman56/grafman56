@@ -12,12 +12,13 @@ homelab to break things before production does.
 - **Python tooling** — data pipelines, scrapers, and a few local-LLM experiments
 
 ## Featured projects
-
+- **[Containerlabs](https://github.com/grafman56/containerlab-labs-public)** - Containerlab Enterprise Level Labs. BGP, SDWAN, DOCSIS CIN, Fabric, EVPN, Wireless w/ Radius
 - **[scmsansible](https://github.com/grafman56/scmsansible)** — parallel CMTS cable-modem-count poller. An external CSV becomes a dynamic inventory, every CMTS polls concurrently, and one timestamped CSV report comes out. Unreachable devices are flagged instead of failing the run.
 - **[ansibletestlocal](https://github.com/grafman56/ansibletestlocal)** — a clean, documented starter for checking Cisco IOS interfaces over SSH with Ansible (raw CLI + structured facts).
 - **[docsismonitor](https://github.com/grafman56/docsismonitor)** — async SNMP to Prometheus exporter for CMTS downstream/upstream utilization and CPU.
 - **[Ansible_Interface_Compare](https://github.com/grafman56/Ansible_Interface_Compare)** — snapshot interface packet counters and compare them over time (fact-cache and file-persistence approaches).
 - **[WeissWave](https://github.com/grafman56/WeissWavePub)** — Python S&P 500 screener and backtester built on Weis Wave volume analysis, with multi-timeframe signals and a portfolio simulator.
+- **[MTG-Tools](https://github.com/grafman56/mtg-tools)** — Magic card deck building assistant with built in theme detection and card strength
 
 ## Homelab
 
