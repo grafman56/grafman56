@@ -10,6 +10,7 @@ homelab to break things before production does.
 - **Secrets & security** — HashiCorp Vault (AppRole, scoped policies), least-privilege by default
 - **Monitoring** — Prometheus, SNMP, custom metric exporters
 - **Python tooling** — data pipelines, scrapers, and a few local-LLM experiments
+- **Custom AI tooling** - codebase prep, custom mcp, rag, plugins, & even custom harness creation (Most of these are private at the moment)
 
 ## Featured projects
 - **[Containerlabs](https://github.com/grafman56/containerlab-labs-public)** - Containerlab Enterprise Level Labs. BGP, SDWAN, DOCSIS CIN, Fabric, EVPN, Wireless w/ Radius
