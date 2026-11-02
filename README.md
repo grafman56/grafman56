@@ -16,7 +16,7 @@ homelab to break things before production does.
 - **[Devops](https://github.com/grafman56/devops-public)** - Devops tools & templates - Kubernetes, Ansible, Terraform, Hashicorp Packer
 - **[Industrial Controls](https://github.com/grafman56/industrial-controls)** - ICS - Modbus, SCADA, OT, PLC
 - **[Containerlabs](https://github.com/grafman56/containerlab-labs-public)** - Containerlab Enterprise Level Labs. BGP, SDWAN, DOCSIS CIN, Fabric, EVPN, Wireless w/ Radius
-- **[PanOS](https://github.com/grafman56/panos-emu-public)** - Simple Palo Alto emulator for testing, learning, and automation prototypes. Has working API.
+- **[PanOS Emulator](https://github.com/grafman56/panos-emu-public)** - Simple Palo Alto emulator for testing, learning, and automation prototypes. Has working API.
 - **[scmsansible](https://github.com/grafman56/scmsansible)** — parallel CMTS cable-modem-count poller. An external CSV becomes a dynamic inventory, every CMTS polls concurrently, and one timestamped CSV report comes out. Unreachable devices are flagged instead of failing the run.
 - **[ansibletestlocal](https://github.com/grafman56/ansibletestlocal)** — a clean, documented starter for checking Cisco IOS interfaces over SSH with Ansible (raw CLI + structured facts).
 - **[docsismonitor](https://github.com/grafman56/docsismonitor)** — async SNMP to Prometheus exporter for CMTS downstream/upstream utilization and CPU.
