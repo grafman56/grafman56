@@ -14,6 +14,7 @@ homelab to break things before production does.
 
 ## Featured projects
 - **[Devops](https://github.com/grafman56/devops-public)** - Devops tools & templates - Kubernetes, Ansible, Terraform, Hashicorp Packer
+- **[Devops](https://github.com/grafman56/industrial-controls)** - Industrial Controls - Modbus, SCADA, OT, PLC
 - **[Containerlabs](https://github.com/grafman56/containerlab-labs-public)** - Containerlab Enterprise Level Labs. BGP, SDWAN, DOCSIS CIN, Fabric, EVPN, Wireless w/ Radius
 - **[scmsansible](https://github.com/grafman56/scmsansible)** — parallel CMTS cable-modem-count poller. An external CSV becomes a dynamic inventory, every CMTS polls concurrently, and one timestamped CSV report comes out. Unreachable devices are flagged instead of failing the run.
 - **[ansibletestlocal](https://github.com/grafman56/ansibletestlocal)** — a clean, documented starter for checking Cisco IOS interfaces over SSH with Ansible (raw CLI + structured facts).
