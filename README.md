@@ -7,7 +7,7 @@ homelab to break things before production does.
 
 - **Network automation** — Ansible against Cisco IOS / IOS-XE and DOCSIS CMTS platforms
 - **Infrastructure & ops** — Proxmox, Docker, self-hosted GitLab, Semaphore (Ansible CI), NetBox (IPAM/DCIM)
-- **Industrial Controls** - PLC Ladder Logic, Modbus, Python, Arduino (more to come)
+- **Industrial Controls** — PLC Ladder Logic, Modbus, Python, Arduino (more to come)
 - **Secrets & security** — HashiCorp Vault (AppRole, scoped policies), least-privilege by default
 - **Monitoring** — Prometheus, SNMP, custom metric exporters
 - **Python tooling** — data pipelines, scrapers, and a few local-LLM experiments
