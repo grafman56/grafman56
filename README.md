@@ -17,7 +17,7 @@ homelab to break things before production does.
 - **[Industrial Controls](https://github.com/grafman56/industrial-controls)** - ICS - Modbus, SCADA, OT, PLC
 - **[Containerlabs](https://github.com/grafman56/containerlab-labs-public)** - Containerlab Enterprise Level Labs. BGP, SDWAN, DOCSIS CIN, Fabric, EVPN, Wireless w/ Radius
 - **[PanOS Emulator](https://github.com/grafman56/panos-emu-public)** - Simple Palo Alto emulator for testing, learning, and automation prototypes. Has working API.
-- **[scmsansible](https://github.com/grafman56/scmsansible)** — parallel CMTS cable-modem-count poller. An external CSV becomes a dynamic inventory, every CMTS polls concurrently, and one timestamped CSV report comes out. Unreachable devices are flagged instead of failing the run.
+- **[scmsansible](https://github.com/grafman56/scmsansible)** — parallel CMTS cable-modem-count poller.
 - **[ansibletestlocal](https://github.com/grafman56/ansibletestlocal)** — a clean, documented starter for checking Cisco IOS interfaces over SSH with Ansible (raw CLI + structured facts).
 - **[docsismonitor](https://github.com/grafman56/docsismonitor)** — async SNMP to Prometheus exporter for CMTS downstream/upstream utilization and CPU.
 - **[Ansible_Interface_Compare](https://github.com/grafman56/Ansible_Interface_Compare)** — snapshot interface packet counters and compare them over time (fact-cache and file-persistence approaches).
@@ -33,4 +33,5 @@ run end to end so I actually understand them.
 ## Reach me
 
 - https://www.linkedin.com/in/pauleiteliv/
+- https://www.paulsgarageva.com
 - paul@paulsgarageva.com
