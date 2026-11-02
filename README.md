@@ -1,6 +1,6 @@
 # Hi, I'm Paul 👋
 
-Broadband / network engineer who automates the tedious parts of the job, and runs a
+Network engineer who automates the tedious parts of the job, and runs a
 homelab to break things before production does.
 
 ## What I focus on
